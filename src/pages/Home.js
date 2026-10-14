@@ -253,7 +253,7 @@ const Home = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; SmartPrep. All rights reserved.</p>
+          <p>&copy; SmartPreparation.All rights reserved.</p>
         </div>
       </footer>
     </div>
